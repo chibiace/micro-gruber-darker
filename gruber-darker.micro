@@ -1,0 +1,78 @@
+color-link default "#e4e4ef,#181818"
+color-link comment "#cc8c3c"
+#dont know what this is
+# color-link comment.bright "#cc8c3c"
+
+#done
+color-link identifier "#e4e4ef"
+color-link identifier.class "#96a6c8"
+# color-link identifier.macro "#96a6c8"
+# color-link identifier.var "#96a6c8"
+
+#quartz havent tested
+color-link constant "#95a99f"
+
+# color-link constant.bool "#C3DEAC"
+# color-link constant.bool.true "#C3DEAC"
+# color-link constant.bool.false "#DF818A"
+
+#done
+color-link constant.number "#e4e4ef"
+# color-link constant.number "#303540"
+
+#new lines green
+color-link constant.specialChar "#73c936"
+
+# done
+color-link constant.string "#73c936"
+color-link constant.string.url "#73c936"
+
+#done
+color-link statement "bold #ffdd33"
+color-link symbol "#e4e4ef"
+# color-link symbol.brackets "fg"
+# color-link symbol.operator "fg"
+# color-link symbol.tag "#ff0000"
+#done this has #include
+color-link preproc "#95a99f"
+# color-link preproc.shebang "#96a6c8"
+#done this has int
+color-link type "#95a99f"
+#done
+color-link type.keyword "bold #ffdd33"
+
+# color-link special "#ff0000"
+color-link underlined "#5E81AC,#3B4252"
+color-link error "#f43841"
+
+color-link todo "#ff0000"
+
+#done
+color-link statusline "#e4e4ef,#282828"
+
+#done havent tested
+color-link tabbar "#e4e4ef,#282828"
+
+#done
+color-link indent-char "#282828"
+
+# done
+color-link line-number "#52494e"
+
+
+# not done
+color-link gutter-error "#ff0000"
+color-link gutter-warning "#ff8800"
+
+#dont know how to change cursor??
+# color-link cursor-line "#181818,#ffdd33"
+
+# done
+color-link current-line-number "#ffdd33"
+
+color-link color-column "#282828"
+
+
+# color-link ignore "#D8DEE9, #4C566A"
+
+color-link divider "#282828"
